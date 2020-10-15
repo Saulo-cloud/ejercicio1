@@ -1,0 +1,12 @@
+# Esta línea se ignora que es un comentario
+
+# Esta línea hace que git ignore el fichero llamado hola.txt
+hola.txt
+
+# Esta línea hace que git ignore todo los ficheros .class
+*.class
+
+#Esta línea hace que git ignore el contenido de la carpeta bin
+bin/
+
+# Existen muchas reglas para ignorar ficheros y directorios
